@@ -1,6 +1,6 @@
 [submodule "esp32"]
 	path = esp32
 	url = https://github.com/redchenjs/bluetooth_flash_programmer_esp32
-[submodule "qt"]
-	path = qt
+[submodule "tools"]
+	path = tools
 	url = https://github.com/redchenjs/bluetooth_flash_programmer_qt
